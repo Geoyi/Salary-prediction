@@ -1,1 +1,1 @@
-# Salary-prediction
+# Salary-prediction using logistic regression
