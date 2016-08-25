@@ -2,8 +2,8 @@
 #output: html_notebook
 #Author: Zhuangfang Yi
 
-setwd("C:/Data Science Fundation with R/R-Course-HTML-Notes/R-Course-HTML-Notes/R-for-Data-Science-and-Machine-Learning/Training Exercises/Machine Learning Projects/CSV files for ML Projects")
-list.files("C:/Data Science Fundation with R/R-Course-HTML-Notes/R-Course-HTML-Notes/R-for-Data-Science-and-Machine-Learning/Training Exercises/Machine Learning Projects/CSV files for ML Projects")
+setwd("...")
+list.files("...")
 A.df <- read.csv("adult_sal.csv", sep = ",")
 head(A.df)
 
